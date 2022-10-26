@@ -11,3 +11,4 @@ This project uses machine learning to identify which cryptocurrencies are on the
 - Clustering cryptocurrencies using K-means: During step, an elbow curve was created to find the best value for the clustering groups and a K-means algorithm was used to predict the K clusters for the cryptocurrencies’ data.
 ![Elbow Curve](https://github.com/fouadZiaa/CryptoCurrencies/blob/ae690de3b62ac2fdb6cfff0e30c0c5a4a7d3a990/Resources/Elbow_Curve.png)
 - Visualizing results: In this final step, three types of figures were used: a 3D scatter plot to visualize the three PCAs, a hvplot.table to visualize all the current tradable cryptocurrencies, and a 2D scatter plot to visualize "Total Coins Mined" vs. "Total Coin Supply" by coin name and clusters.
+![Scatter Plot](https://github.com/fouadZiaa/CryptoCurrencies/blob/f229b7816d0dc1fad2a75e1e9f6eec313c40930f/Resources/Scatter_plot.png)
